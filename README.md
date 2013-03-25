@@ -1,7 +1,7 @@
 Update by Finucane Engineering LLC to use with Eggbot
 ===========================================
 
-This current plug uses 0.28222 to convert px to mm in the gcode output.  This simple change exports the gcode in px.  
+This current code uses 0.28222 to convert px to mm in the gcode output.  This simple change exports the gcode in px.  
 
 Set a image to 800px by 3200px.  Each px is a mirco step of the steper motor.  3200px is one complete revolution of
 X-axis.
